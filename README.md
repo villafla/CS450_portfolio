@@ -1,10 +1,5 @@
 # 🌸 3D Flower Garden – CS450 Final Project
 
-**Allyson Villaflor**  
-villafla@oregonstate.edu  
-CS 450: Intro to Computer Graphics  
-Final Project – Fall 2024
-
 ## 🎯 Project Overview
 
 This project is a 3D flower garden built using **OpenGL** for my CS450 final. The scene features custom-modeled flowers, a grass-textured grid, a dynamically animated sunlight source, and a hopping bunny to bring the environment to life. It combines everything I learned throughout the term—geometry, animation, lighting, texturing, and rendering techniques—into one cohesive visual experience.
@@ -29,13 +24,13 @@ This project is a 3D flower garden built using **OpenGL** for my CS450 final. Th
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/tBKFfva.png" alt="Above view" width="80%" />
+  <img src="https://i.imgur.com/tBKFfva.png" alt="Above view" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/Ygdq1PH.png" alt="Side view" width="80%" />
+  <img src="https://i.imgur.com/Ygdq1PH.png" alt="Side view" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/YHjuC2z.png" alt="Pan view" width="80%" />
+  <img src="https://i.imgur.com/YHjuC2z.png" alt="Pan view" width="40%" />
 </p>
